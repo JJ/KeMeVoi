@@ -1,4 +1,4 @@
-name: "Comprobaciones básicas del cuerpo del PR"
+name: "Comprobar errores de formato Markdown"
 on:
   push:
     paths:
@@ -13,7 +13,4 @@ jobs:
   check_pr:
     runs-on: ubuntu-latest
     steps:
-      - name: Lint changelog file
-        uses: avto-dev/markdown-lint@v1
-        with:
-          args: './README.md'
+      - uses: articulate/actions-markdownlint@v1
