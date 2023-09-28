@@ -1,6 +1,6 @@
 # KeMeVoi
 
-Repositorio para el hackatón IV 23-24
+Repositorio para el hackatón IV 23-24: asigna las vacaciones en una empresa.
 
 ## Descripción del problema
 
