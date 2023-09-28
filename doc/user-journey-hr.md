@@ -1,4 +1,4 @@
-#USER JOURNEY: RH
+# USER JOURNEY: RH
 Carla es la jefa de HR de una empresa. Necesita organizar a principios de año las vacaciones de los empleados,
 de forma que cumpla una serie de restricciones legales, minimizando los conflictos en la elección de fechas y
 optimizando el número de personas que están de vacaciones según la fecha.
