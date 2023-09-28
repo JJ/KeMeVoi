@@ -18,4 +18,4 @@ proyectos y quiénes son esenciales para su realización, como los
 líderes de equipos. Es importante evitar que dos personas clave se
 ausenten al mismo tiempo para no afectar las operaciones. Además, las
 diferentes fases de un proyecto pueden requerir más o menos personal,
-lo que influye en la posibilidad de tomar tiempo libre.
+lo que influye en la posibilidad de tomarse un tiempo libre.
