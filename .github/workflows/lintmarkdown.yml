@@ -1,9 +1,13 @@
 name: "Comprobaciones básicas del cuerpo del PR"
 on:
   push:
-    paths: '**/*.md'
+    paths:
+      - **/*.md
+      - *.md
   pull_request:
-    paths: '**/*.md'
+    paths:
+      - **/*.md
+      - *.md
 
 jobs:
   check_pr:
