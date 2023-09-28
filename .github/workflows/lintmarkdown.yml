@@ -2,12 +2,12 @@ name: "Comprobar errores de formato Markdown"
 on:
   push:
     paths:
-      - **/*.md
-      - *.md
+      - "**/*.md"
+      - "*.md"
   pull_request:
     paths:
-      - **/*.md
-      - *.md
+      - "**/*.md"
+      - "*.md"
 
 jobs:
   check_pr:
