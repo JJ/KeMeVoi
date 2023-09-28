@@ -1,0 +1,15 @@
+name: "Comprobar errores de formato Markdown"
+on:
+  push:
+    paths:
+      - "**/*.md"
+      - "*.md"
+
+jobs:
+  check_pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out fuentes
+        uses: actions/checkout@v4
+      - name: "Comprobar errores de formato Markdown"
+        uses: articulate/actions-markdownlint@v1
