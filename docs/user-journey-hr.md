@@ -1,4 +1,4 @@
-# "User Journey" para Recursos Humanos
+# Viaje de usuario para Recursos Humanos
 
 Carla es la jefa de Recursos Humanos de una empresa. Necesita organizar a
 principios de año las vacaciones de los empleados, de forma que cumpla
