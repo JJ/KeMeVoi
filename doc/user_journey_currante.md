@@ -1,6 +1,6 @@
 # User Journey: Currante
 
-Soy Miguel de 38 años. Una vez cada 6 meses me encuentro en la situación de tener que buscar vacaciones dentro de la empresa, por lo tanto, accedo a la aplicación desde un ordenador de la empresa donde, desde la propia app, inserto una serie de datos. Estos datos son:
+Soy Miguel, una vez cada 6 meses me encuentro en la situación de tener que buscar vacaciones dentro de la empresa, por lo tanto, accedo a la aplicación desde un ordenador de la empresa donde, desde la propia app, inserto una serie de datos. Estos datos son:
 
  - Periodo de preferencia
  - Periodo solicitado
