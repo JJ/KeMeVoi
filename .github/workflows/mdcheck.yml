@@ -17,3 +17,4 @@ jobs:
         name: "Comprueba ortografía"
         with:
           source_files: "README.md docs/*.md"
+          task_name: Spellcheck
