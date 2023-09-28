@@ -4,6 +4,7 @@ on:
     paths:
       - "**/*.md"
       - "*.md"
+      - assets/palabras.txt
 
 jobs:
   check_pr:
