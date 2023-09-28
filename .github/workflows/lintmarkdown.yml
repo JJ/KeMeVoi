@@ -11,5 +11,9 @@ jobs:
     steps:
       - name: Check out fuentes
         uses: actions/checkout@v4
-      - name: "Comprobar errores de formato Markdown"
+      - name: "Comprueba errores de formato Markdown"
         uses: articulate/actions-markdownlint@v1
+      - uses: rojopolis/spellcheck-github-actions@v0
+        name: "Comprueba ortografía"
+        with:
+          source_files: "README.md docs/*.md"
