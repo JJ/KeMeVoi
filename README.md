@@ -13,7 +13,7 @@ año cuando los niños no tienen clases. Además, la carga de trabajo en
 la empresa varía a lo largo del año, lo que limita la disponibilidad
 de tiempo libre en momentos de alta demanda laboral.
 
-La asignación de tiempo libre también depende de la planificación de
+La asignación del periodo o periodos de vacaciones también depende de la planificación de
 proyectos y quiénes son esenciales para su realización, como los
 líderes de equipos. Es importante evitar que dos personas clave se
 ausenten al mismo tiempo para no afectar las operaciones. Además, las
