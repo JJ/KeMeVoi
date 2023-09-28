@@ -1,4 +1,4 @@
-name: "Comprobar errores de formato Markdown"
+name: "Comprobar errores ortográficos y de formato Markdown"
 on:
   push:
     paths:
