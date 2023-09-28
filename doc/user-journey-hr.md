@@ -4,5 +4,5 @@ optimizando el número de personas que están de vacaciones según la fecha.
 
 Tengo las siguientes restricciones:
 - Según el equipo de trabajo deben de quedar mínimo un número determinado de personas trabajando.
-- Un miembro no puede pedir vacaciones hasta 15 días antes de la fecha de un proyecto.
+- Un miembro del equipo no puede estar de vacaciones hasta 15 días antes de la fecha de entrega de un proyecto.
 - Las vacaciones de un empleado deben empezar siempre en lunes. (Requisito legal)
