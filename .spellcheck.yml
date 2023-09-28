@@ -7,3 +7,6 @@ matrix:
   sources:
   - '**/*.md'
   default_encoding: utf-8
+  dictionary:
+    wordlists:
+    - assets/palabras.txt
