@@ -1,16 +1,16 @@
-## Descripción de la Solicitud de Extracción
+# Plantilla de PR
+
+## Descripción
 
 [Describe aquí de manera concisa cuál es el propósito de esta solicitud de extracción.]
 
-## Cambios Realizados
+## Cambios realizados
 
-[Enumera los cambios específicos que has realizado en esta solicitud de extracción.]
+* Cambio 1
+* Cambio 2
+* Cambio 3
 
-- Cambio 1
-- Cambio 2
-- Cambio 3
-
-## Issue Relacionado
+## Issue relacionado
 
 [Cierra automáticamente el issue relacionado al completar esta solicitud de extracción. Por ejemplo, "Closes #X" donde X es el número del issue.]
 
@@ -22,9 +22,9 @@
 
 Asegúrate de marcar las siguientes casillas después de verificar que se han cumplido:
 
-- [ ] He revisado y corregido cualquier error ortográfico o de formato.
-- [ ] He probado los cambios y confirmado que funcionan como se espera.
-- [ ] He seguido las pautas de estilo y formato del proyecto.
+* [ ] He revisado y corregido cualquier error ortográfico o de formato.
+* [ ] He probado los cambios y confirmado que funcionan como se espera.
+* [ ] He seguido las pautas de estilo y formato del proyecto.
 
 ## Notas Adicionales
 
