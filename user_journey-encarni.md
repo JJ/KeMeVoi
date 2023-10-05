@@ -8,6 +8,7 @@ vacaciones.
 Teniendo en cuenta que, sin un jefe de proyecto, el trabajo no puede avanzar,
 el equipo tiene que ponerse de acuerdo en la elección del periodo vacacional.
 Además, hay que cumplir ciertas condiciones:
+
 * El proyecto no puede quedarse sin terminar.
 * Siempre debe de haber, como mínimo, un equipo trabajando.
 * En caso de que no sea posible completar la tarea asignada antes de las
