@@ -1,6 +1,6 @@
 # Información adicional sobre la asignacion de vacaciones
 
-Todos los trabajadores de una empresa tienen derecho a tener vacaciones, como mínimo 30 días naturales (22 hábiles). Un trabajador puede solicitar sus vacaciones de forma presencial en la empresa o a través de correo electrónico. 
+Todos los trabajadores de una empresa tienen derecho a tener vacaciones, como mínimo 22 días hábiles. Un trabajador puede solicitar sus vacaciones de forma presencial en la empresa o a través de correo electrónico. 
 
 La empresa tiene derecho a negar el periodo de vacaciones elegido por el trabajador, pero le queda totalmente prohibido imponerle un periodo vacacional. La empresa no puede imponer fecha de vacaciones, solo puede indicar al trabajador qué días están disponibles para elegir sus vacaciones.
 
