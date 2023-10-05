@@ -1,7 +1,8 @@
 # User Journey Encarni
 
-Mi nombre es Encarni, soy jefa de proyectos en una importante empresa de Granada, todo un
-equipo depende de mi. Dos veces al año, en mayo y en septiembre, nos reúnen a
+Mi nombre es Encarni, soy jefa de proyectos en una importante empresa de 
+Granada, todo un equipo depende de mi. 
+Dos veces al año, en mayo y en septiembre, nos reúnen a
 todos los integrantes del equipo para decidir la organización de nuestras
 vacaciones.
 Teniendo en cuenta que, sin un jefe de proyecto, el trabajo no puede avanzar,
