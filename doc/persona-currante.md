@@ -1,6 +1,6 @@
 # Metodología de personas
 
-## Paco (currante),
+## Paco (currante)
 
 * Nombre y apellido: Miguel López Martínez
 * Edad: 32 años
@@ -8,7 +8,6 @@
 * Ocupación: Empleado de la empresa
 * Estado civil: Soltero
 * Nivel cultural: Graduado en Administración y Finanzas. Tiene el B2 de inglés
-* Frase que describe a la persona: Hombre sencillo, le gusta pasar tiempo con los suyos
 * Motivaciones: Trabaja mucho para poder comprarse su propio piso
 * Deseos: Le gustaría poder formar una familia algún día
 * Preocupaciones: Estar dedicando demasiado tiempo a su trabajo y descuidando a sus seres queridos
