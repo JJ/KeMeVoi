@@ -1,8 +1,9 @@
-# Plantilla de PR
+# Plantilla de PR (título PR)
 
 ## Descripción
 
-[Describe aquí de manera concisa cuál es el propósito de esta solicitud de extracción.]
+[Describe aquí de manera concisa cuál es el propósito
+de esta solicitud de extracción.]
 
 ## Cambios realizados
 
@@ -12,15 +13,18 @@
 
 ## Issue relacionado
 
-[Cierra automáticamente el issue relacionado al completar esta solicitud de extracción. Por ejemplo, "Closes #X" donde X es el número del issue.]
+[Cierra el issue relacionado al completar el PR.
+Por ejemplo, "Closes #X", siendo X el número del issue.]
 
 ## Capturas de Pantalla (si es aplicable)
 
-[Si los cambios incluyen modificaciones visuales, proporciona capturas de pantalla antes y después, o describe cómo los revisores pueden verificar visualmente los cambios.]
+[Si los cambios incluyen modificaciones visuales, proporciona
+capturas de pantalla antes y después, o describe cómo los
+revisores pueden verificar visualmente los cambios.]
 
 ## Comprobación
 
-Asegúrate de marcar las siguientes casillas después de verificar que se han cumplido:
+Marca las siguientes casillas tras verificar que se han cumplido:
 
 * [ ] He revisado y corregido cualquier error ortográfico o de formato.
 * [ ] He probado los cambios y confirmado que funcionan como se espera.
@@ -28,4 +32,6 @@ Asegúrate de marcar las siguientes casillas después de verificar que se han cu
 
 ## Notas Adicionales
 
-[Proporciona cualquier información adicional que consideres relevante para esta solicitud de extracción, como posibles problemas conocidos o consideraciones especiales.]
+[Proporciona cualquier información adicional que consideres relevante
+para esta solicitud de extracción, como posibles problemas conocidos
+o consideraciones especiales.]
