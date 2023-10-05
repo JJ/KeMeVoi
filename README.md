@@ -1,5 +1,7 @@
 # KeMeVoi
 
+![Logotipo de KeMeVoi](assets/LogoKeMeVoi.png)
+
 Repositorio para el hackatón IV 23-24: creación de una aplicación que asigna las
 vacaciones en una empresa.
 
