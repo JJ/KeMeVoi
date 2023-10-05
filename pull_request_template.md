@@ -16,7 +16,7 @@ de esta solicitud de extracción.]
 [Cierra el issue relacionado al completar el PR.
 Por ejemplo, "Closes #X", siendo X el número del issue.]
 
-## Capturas de Pantalla (si es aplicable)
+## Capturas de pantalla (si es aplicable)
 
 [Si los cambios incluyen modificaciones visuales, proporciona
 capturas de pantalla antes y después, o describe cómo los
