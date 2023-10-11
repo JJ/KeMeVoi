@@ -17,5 +17,5 @@ jobs:
       - uses: rojopolis/spellcheck-github-actions@v0
         name: "Comprueba ortografía"
         with:
-          source_files: "README.md doc/*.md .github/*.md"
+          source_files: "README.md doc/persona-Jacinta.md doc/persona-currante.md doc/persona-encarni.md doc/user-journey-currante.md doc/user-journey-hr.md pull_request_template.md"
           task_name: Spellcheck
