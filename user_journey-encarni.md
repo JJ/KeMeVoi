@@ -15,5 +15,6 @@ Además, hay que cumplir ciertas condiciones:
 vacaciones, puede transferirse a otro equipo para que continúe trabajando con
 él.
 
-Cada miembro del equipo solicitará, en la aplicación, su periodo de preferencia,
-que podrá ser, o no, el asignado.
+Cada equipo solicitará, en la aplicación, su periodo de preferencia, que podrá
+ser, o no, el asignado. Una vez hecha la asignación, cada miembro del equipo
+deberá confirmar o denegar.
