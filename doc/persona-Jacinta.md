@@ -7,8 +7,8 @@ de la atención al cliente.
 
 "El año pasado quería coger las vacaciones en verano para poder irme con mi
 hijo y disfrutar juntos de la playa. No obstante, mi otra compañera también
-quería vacaciones en las mismas fechas que yo; la empresa nos concedió
-esos días libres a las dos. Debido a que ambas estábamos de vacaciones
+quería vacaciones en las mismas fechas que yo. 
+La empresa nos concedió esos días libres a las dos. Debido a que ambas estábamos de vacaciones 
 nadie se encargaba de atender la llamadas de los clientes.
 Por eso, pese a estar de vacaciones tuve que seguir atendiendo llamadas y
 enviando emails al secretario indicando la información de dicha llamada."

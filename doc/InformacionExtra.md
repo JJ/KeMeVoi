@@ -1,4 +1,4 @@
-# Información adicional sobre la asignacion de vacaciones
+# Información adicional sobre la asignación de vacaciones
 
 Todos los trabajadores de una empresa tienen derecho a tener vacaciones, como
 mínimo 22 días hábiles. Un trabajador puede solicitar sus vacaciones de forma
